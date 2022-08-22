@@ -1,5 +1,5 @@
 # LogicProblems
-A repository of solutions to problems in Mathematical Logic, Set Theory, Computability and Complexity Theory, and Modal Logic. 
+A repository of solutions to problems in Mathematical Logic, Computability and Complexity Theory, Set Theory, and Modal Logic. 
 
 These subjects are broadly spread across Mathematics, Computer Science and Philosophy. However, they are intimately connected subjects historically.
 
