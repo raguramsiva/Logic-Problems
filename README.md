@@ -1,9 +1,9 @@
 # LogicProblems
 A repository of solutions to problems in Mathematical Logic (Model Theory and Proof Theory), Set Theory, and Modal Logic. 
 
-These subjects are broadly spread across Mathematics, Theoretical Computer Science and Philosophy. However, they are intimately connected subjects historically.
+These subjects are broadly spread across Mathematics, Theoretical Computer Science, and Philosophy. However, they are intimately connected subjects historically.
 
-Collectively, this repoisitory contains hundreds of pages worth of logic problems intended to be used for reference purposes. 
+Collectively, this repository contains hundreds of pages worth of logic problems intended to be used for reference purposes. 
 
 # Textbook Sources
 
