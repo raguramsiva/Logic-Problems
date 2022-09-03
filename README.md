@@ -1,4 +1,4 @@
-# LogicProblems
+# Logic Problems
 A repository of solutions to problems in Mathematical Logic (Model Theory and Proof Theory), Set Theory, and Modal Logic. 
 
 These subjects are broadly spread across Mathematics, Theoretical Computer Science, and Philosophy. However, they are intimately connected subjects historically.
